@@ -10,6 +10,7 @@ public class newmethod {
   public void beforeMethod() {
 	  
 	  System.out.println("i am in methd");
+	  System.out.println("johnsons");
   }
   
   @Test
